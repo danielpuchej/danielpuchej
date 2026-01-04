@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<iframe width="100%" height="768" src="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/daniel-puche-jimenez-8523b7217/)" frameborder="0"></iframe>
+<span class="highlighted">JavaScript</span>
           
           
 <!--
