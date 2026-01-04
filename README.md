@@ -1,20 +1,57 @@
-## Hi there 👋
+# Your Name
 
-<iframe width="100%" height="768" src="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/daniel-puche-jimenez-8523b7217/)" frameborder="0"></iframe>
-<span class="highlighted">JavaScript</span>
-          
-          
-<!--
-**danielpuchej/danielpuchej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Highlighted Skills
+- JavaScript
+- React
+- TypeScript
+- Python
+- Node.js
+- MySQL
+- REST API
+- Docker
+- CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skills
+#### Web Development
+- Full Stack Development (React, Next.js)
+- frontend technologies: HTML5, CSS3, JavaScript
+- backend: Node.js, Python Flask
+- RESTful APIs
+
+#### Database and Tools
+- SQL & NoSQL Databases (MySQL, MongoDB)
+- Git & GitHub
+- Docker &容器化
+- Kubernetes
+
+## Experience
+
+### Current Position
+* * *
+  * Software Engineer at Company Name
+  * responsibilities include: ...
+  * technologies used: ...
+
+### Previous Experience
+* * *
+  * Software Developer at Company Name
+  * responsibilities include: ...
+  * technologies used: ...
+
+## Education
+* * *
+  * University Name, Degree
+  * Graduation Year
+
+## Portfolio & Projects
+- [Portfolio Link](#)
+- [Project 1](#)
+- [Project 2](#)
+
+## GitHub Profile
+- [GitHub Profile](#)
+
+## LinkedIn Profile
+[LinkedIn Profile](https://linkedin.com/in/yourusername)
